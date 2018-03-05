@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "thaitoan"
-  s.version            = "0.0.1"
+  s.version            = "0.0.3"
   s.default_executable = "thaitoan"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %q{itthaitoan@gmail.com}
   s.files = ["Rakefile", "lib/thaitoan.rb", "lib/thaitoan/translator.rb", "bin/thaitoan"]
   s.test_files = ["test/test_thaitoan.rb"]
-  s.homepage = %q{http://rubygems.org/gems/thaitoan}
+  s.homepage = %q{https://github.com/thaitoanit/thaitoan}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{ThaiToan!}

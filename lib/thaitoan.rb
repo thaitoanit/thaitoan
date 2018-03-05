@@ -1,7 +1,10 @@
 class Thaitoan
-  def self.hi(language)
-    translator = Translator.new(language)
-    translator.hi
+  def self.hello
+    "hola mundo"
+  end
+
+  def self.hi
+    "hi everyone"
   end
 end
 
