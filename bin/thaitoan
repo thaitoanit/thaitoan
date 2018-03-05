@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'thaitoan'
+puts Thaitoan.hi(ARGV[0])
